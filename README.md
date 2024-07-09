@@ -1,4 +1,8 @@
-# Animated Imaged Slider HTML CSS & JavaScript 
-## Animated Carousel Design
+# gracielablack Formato 1 De landing usadas de Enero a Marzo
+imonetize
+Se modifico 
+index
+css
+js
 
-<img src="image/127.0.0.1_5500_index.html(iPhone 14 Pro Max).png">
+ # Data de ACtualizacion 09/07/2024
